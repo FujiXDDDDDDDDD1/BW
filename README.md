@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-    local Window = Library.CreateLib("Fu Kang Hub V2", "BloodTheme")
+    local Window = Library.CreateLib("Fu Kang Hub", "BloodTheme")
      
      
     -- MAIN
